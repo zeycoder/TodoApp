@@ -1,6 +1,10 @@
 # TodoApp
 Todo App in React Native
 
+In React native, it is the application where I show the dishes pulled from the api and the details of the dishes pulled from the api according to their ids, information about the dishes and the video.
+
+React native'de api'den çekilen yemeklerin ve api'den çekilen yemeklerin id'lerine göre detaylarını, yemeklere ait bilgileri ve videoyu gösterdiğim uygulamadır.
+
 ## Installation
 
 `npm install`
